@@ -1,14 +1,14 @@
-#Project Title: Sales Analytics(FMCG)
+Project Title: Sales Analytics(FMCG)
 
 ********************
 
-##Project Short Info:
+Project Short Info:
 
 Created 2 reports for the sales team which will help them to evaluate customer performance and understand their market performance with respect to their target.
 
 **********************
 
-##Project Description:
+Project Description:
 
 In this project, I created a sales report using excel pivot tables which will enable businesses to determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries. The reports generated will provide actionable insights and recommendations for businesses to optimize their sales strategies, enhance customer satisfaction, and maximize revenue generation.
 
