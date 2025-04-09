@@ -4,7 +4,7 @@ Project Title: Sales Analytics(FMCG)
 
 Project Short Info:
 
-Created 2 reports for the sales team which will help them to evaluate customer performance and understand their market performance with respect to their target.
+Created reports for the sales team which will help them to evaluate customer performance and understand their market performance with respect to their target.
 
 **********************
 
