@@ -1,24 +1,35 @@
-Project Title: Sales Analytics(FMCG)
+Project Title: Sales Analytics (FMCG)
+
+********************
+Short Description:
+Developed interactive sales reports to help the sales team evaluate customer performance and track progress against market targets.
+********************
+Project Description:
+
+Designed and built dynamic sales reports using Excel Pivot Tables to analyze customer performance across regions.
+
+Enabled businesses to determine optimal discount strategies, support effective negotiations, and uncover expansion opportunities in high-potential markets.
+
+Delivered actionable insights to help refine sales strategies, improve customer satisfaction, and boost revenue generation.
+
+Focused on visual clarity, conditional formatting, and report aesthetics to enhance usability for stakeholders.
+
+Tools & Skills Gained:
+
+Excel Pivot Tables
+
+Power Query
+
+DAX (Basic level)
+
+Conditional Formatting
+
+Report Beautification Techniques
+
+Understanding of Key Sales Metrics and FMCG Domain Knowledge
+********************
+Impact:
+Empowered business teams to monitor, evaluate, and improve sales performance using data-driven insights, fostering smarter decision-making in a competitive market.Project Title: Sales Analytics(FMCG)
 
 ********************
 
-Project Short Info:
-
-Created reports for the sales team which will help them to evaluate customer performance and understand their market performance with respect to their target.
-
-**********************
-
-Project Description:
-
-In this project, I created a sales report using excel pivot tables which will enable businesses to determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries. The reports generated will provide actionable insights and recommendations for businesses to optimize their sales strategies, enhance customer satisfaction, and maximize revenue generation.
-
-I have learned the following:
-
-1. Pivot table
-2. Power Query
-3. DAX (Basics)
-4. Conditional Formatting
-5. Report Beautification
-6. Sales Domain Metrics
-
-Overall, this project aims to empower businesses with the necessary tools and insights to monitor, evaluate, and enhance their sales activities. By leveraging sales data analysis, businesses can unlock new opportunities, drive growth, and stay competitive in the dynamic market landscape.
